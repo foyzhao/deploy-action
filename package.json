@@ -1,0 +1,21 @@
+{
+  "name": "deploy-action",
+  "version": "1.0.0",
+  "description": "Deploy artifact to a remote windows server by PowerShell.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foyzhao/deploy-action.git"
+  },
+  "keywords": [
+    "actions",
+    "deploy"
+  ],
+  "author": "Foy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foyzhao/deploy-action/issues"
+  },
+  "homepage": "https://github.com/foyzhao/deploy-action#readme"
+}
