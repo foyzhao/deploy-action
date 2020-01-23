@@ -1,5 +1,5 @@
 name: Deploy
-description: Deploy artifact to a remote windows server by PowerShell
+description: Deploy artifact to a remote windows server
 inputs:
   server:
     description: 'server ip'
@@ -14,7 +14,7 @@ inputs:
   artifact:
     description: 'artifact path'
     required: false
-    default: '.\dist'
+    default: 'dist'
   path:
     description: 'deploy path'
     required: true
